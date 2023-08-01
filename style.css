@@ -1,0 +1,119 @@
+#first{
+    color: white;
+    background-color: black;
+    padding: 8px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+.h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#range{
+    width: 280px;
+    height: 30px;
+    border-radius: 5px;
+}
+.div1{
+   
+    padding: 40px;
+    border-radius: 10px; 
+    /* text-align: center; */
+   
+}
+.parent{
+    /* width: auto;
+    height: auto; */
+    display: flex;
+    justify-content: space-evenly;
+    /* box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;   */
+}
+.div2{
+   
+    padding-top: 40px;
+    border-radius: 10px; 
+    /* text-align: center; */
+   
+}
+#product{
+    width: 280px;
+    height: 30px;
+    border-radius: 5px;
+   
+}
+#cost{
+    width: 280px;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#second{
+
+    color: white;
+    background-color: black;
+    padding: 8px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+#data{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+#list{
+    margin-top: 40px;
+    
+}
+#heading{    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#ul{
+    list-style: none;
+}
+.clear{
+    
+    color: white;
+    background-color: black;
+    padding: 8px;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+.set{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.see{
+    display: flex;
+}
+.show{
+    display: flex;
+    justify-content: space-around;
+}
+.show2{
+    display: flex;
+    justify-content: space-around;
+}
+.fa-solid{
+    font-size: 25px;
+    
+}
+.fa-pen-to-square{
+    font-size: 25px;
+    margin-left: 150px;
+ 
+}
+.in{
+    display: flex;
+    margin-top: 15px;
+    /* padding-right: 135px; */
+    /* margin-left: 90px; */
+}
+.po{
+margin-left: 2px;
+}
+.ca{
+    margin-left: 300px;
+}
